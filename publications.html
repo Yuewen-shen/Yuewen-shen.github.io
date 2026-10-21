@@ -10,6 +10,10 @@ body_attr: >-
 
 <div class="row">
     <div class="col-12 col-lg-10">
+        <div class="mt-4 px-3 py-2 bg-white shadow-sm rounded-xl small text-muted">
+            <i class="fas fa-hourglass-half"></i>
+            Under review: two journal papers (IEEE JBHI, IEEE TBME) and one conference paper (AAAI 2027).
+        </div>
         {% for year in pubs_by_year %}
         {% assign num_papers = year.items | size %}
         <h2 class="pt-4" id="year-{{ year.name }}">{{ year.name }}</h2>
