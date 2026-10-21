@@ -6,6 +6,7 @@ pub:            "Chaos, Solitons & Fractals"
 pub_date:       "2024"
 abstract: >-
   HFMF fuses the multifractal spectrum width into a hypernetwork to forecast multidimensional nonstationary time series under distribution drift.
+cover:          /assets/images/covers/hfmf.png
 authors:
   - Yuewen Shen
   - Lihong Wen

@@ -33,7 +33,7 @@ short_bio: >-
     <strong>I expect to complete my Ph.D. in October 2027 and am looking for postdoctoral positions.</strong>
   </p>
 
-# portrait_url: /assets/images/photos/portrait.jpg
+portrait_url: /assets/images/photos/portrait.jpg
 
 education:
 - name: Muroran Institute of Technology
