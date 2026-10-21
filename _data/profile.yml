@@ -26,10 +26,9 @@ short_bio: >-
     <a href="https://www.suda.edu.cn/" target="_blank">Soochow University</a>, China.
   </p>
   <p>
-    My research focuses on brain&ndash;computer interfaces and neural decoding. I build diffusion-based
-    generative models that synthesize physiologically consistent EEG signals, and cross-subject
-    frameworks that reconstruct videos from fMRI. Earlier, I worked on forecasting and data augmentation
-    for nonstationary time series.
+    Currently, my research mainly focuses on brain decoding and generation, especially cross-subject
+    fMRI-to-video reconstruction and diffusion-based EEG synthesis. Prior to this, I worked on
+    time series analysis, including nonstationary forecasting and data augmentation.
   </p>
   <p>
     <strong>I expect to complete my Ph.D. in October 2027 and am looking for postdoctoral positions.</strong>
