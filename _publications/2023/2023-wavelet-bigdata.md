@@ -1,7 +1,7 @@
 ---
 title:          "An Analysis of Combined Data Augmentation in Time Series Prediction Tasks Using Discrete Wavelet Multilevel Decomposition"
 date:           2023-12-15 00:01:00 +0900
-selected:       false
+selected:       true
 pub:            "IEEE International Conference on Big Data (BigData)"
 pub_date:       "2023"
 abstract: >-
