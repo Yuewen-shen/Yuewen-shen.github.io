@@ -1,0 +1,57 @@
+primary_name: "Yuewen Shen"
+secondary_name: ""
+navbar_name: "Yuewen Shen"
+
+positions:
+- name: Ph.D. Candidate in Computer Science
+- name: Muroran Institute of Technology, Japan
+
+
+email: "24096507@muroran-it.ac.jp"
+# cv_link: /assets/files/cv.pdf
+# gscholar: your_google_scholar_id
+# github: your_github_id
+# orcid: 0000-0000-0000-0000
+
+short_bio_text_justify: false
+short_bio: >-
+  <p>
+    I am a Ph.D. candidate in Computer Science at the
+    <a href="https://muroran-it.ac.jp/" target="_blank">Muroran Institute of Technology</a>, Japan,
+    advised by Prof. Mianxiong Dong and Prof. Kaoru Ota. My Ph.D. study is supported by the
+    China Scholarship Council (CSC). Before that, I received my M.Eng. in Control Science and Engineering
+    and B.Eng. in Electrical Engineering and Automation from
+    <a href="https://www.suda.edu.cn/" target="_blank">Soochow University</a>, China.
+  </p>
+  <p>
+    My research focuses on brain&ndash;computer interfaces and neural decoding. I build diffusion-based
+    generative models that synthesize physiologically consistent EEG signals, and cross-subject
+    frameworks that reconstruct videos from fMRI. Earlier, I worked on forecasting and data augmentation
+    for nonstationary time series.
+  </p>
+  <p>
+    <strong>I expect to complete my Ph.D. in October 2027 and am looking for postdoctoral positions.</strong>
+  </p>
+
+# portrait_url: /assets/images/photos/portrait.jpg
+
+education:
+- name: Muroran Institute of Technology
+  position: Ph.D. in Computer Science (CSC Scholarship)
+  date: 2024 - present
+- name: Soochow University
+  position: M.Eng. in Control Science and Engineering
+  date: 2021 - 2024
+- name: Soochow University
+  position: B.Eng. in Electrical Engineering and Automation
+  date: 2017 - 2021
+
+awards:
+- name: China Scholarship Council (CSC) Scholarship for Ph.D. Study
+  date: 2024
+- name: Bronze Medal (Top 10%), Kaggle &ndash; Predict Student Performance from Game Play
+  date: 2023
+- name: First-class Academic Scholarship, Soochow University
+  date: 2022
+- name: Silver Medal (Top 5%), Kaggle &ndash; American Express Default Prediction
+  date: 2022
