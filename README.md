@@ -3,6 +3,7 @@
 Personal academic homepage of Yuewen Shen, Ph.D. candidate in Computer Science at the Muroran Institute of Technology.
 
 Built with the [academic-homepage](https://github.com/luost26/academic-homepage) Jekyll template by Shitong Luo.
+The favicon is the brain emoji from [Twemoji](https://github.com/twitter/twemoji) (CC-BY 4.0).
 
 ## Updating content
 
