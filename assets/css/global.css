@@ -150,3 +150,16 @@ div.lazy {
         transition: none;
     }
 }
+
+/* Small vertical oval portrait in the profile card */
+.portrait-oval {
+    width: 68%;
+    aspect-ratio: 3 / 4;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+}
+
+.portrait-oval-sm {
+    width: 40%;
+}

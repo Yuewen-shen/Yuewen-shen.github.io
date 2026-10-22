@@ -54,3 +54,17 @@ awards:
   date: 2022
 - name: Silver Medal (Top 5%), Kaggle &ndash; American Express Default Prediction
   date: 2022
+
+experience_title: Service & Leadership
+experience:
+- name: IEEE Student Branch at Muroran Institute of Technology
+  position: Chair, IEEE Computer Society Student Branch Chapter
+- name: Chinese Government-Sponsored Students and Scholars Association, Northern Japan
+  position: Director of the Secretariat
+
+hobbies:
+- "🏃 Marathon"
+- "🚴 Cycling"
+- "🏸 Badminton"
+- "📷 Photography"
+- "⛷️ Skiing"
