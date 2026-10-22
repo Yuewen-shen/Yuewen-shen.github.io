@@ -1,0 +1,8 @@
+<div class="my-3 bg-white shadow-sm rounded-xl">
+    <h6 class="p-3 mb-0 border-bottom border-gray"><i class="fas fa-heart"></i> Hobbies</h6>
+    <div class="px-3 py-3 small">
+        {% for item in site.data.profile.hobbies %}
+        <span class="no-break mr-4">{{ item }}</span>
+        {% endfor %}
+    </div>
+</div>
