@@ -10,5 +10,7 @@ authors:
   - Yuewen Shen
   - Lihong Wen
   - Xinhao Yang
-  - et al.
+  - Ze Li
+links:
+  Paper: https://doi.org/10.23919/CCC58697.2023.10240009
 ---
